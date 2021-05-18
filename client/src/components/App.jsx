@@ -7,9 +7,9 @@ import Row from 'react-bootstrap/Row';
 // import ProductQuestionForm from '../modules/productQuestion.jsx';
 
 const App = () => (
-  <div>
+  <Container>
     hello world
-  </div>
+  </Container>
 );
 
 export default App;
